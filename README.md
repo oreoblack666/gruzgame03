@@ -1,5 +1,5 @@
 # Betches Tapper
-
+цуе
 Urban mini game for Base App:
 - tap the heroine to gain score,
 - perform one onchain check-in per 2-minute window,
